@@ -102,7 +102,7 @@ Train the model:
 
 The model effectively removes Gaussian noise from images after training. Below is an example of the output:
 
-![Results](path-to-results-image.png)
+![Results](https://github.com/manumishra12/Noising-Denoising/blob/main/Images/result1.png)
 
 The image showcases three sections:
 1. **Input (Noisy)**: The input image with added Gaussian noise.
