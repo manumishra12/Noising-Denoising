@@ -2,7 +2,7 @@
 
 Welcome to the **Noising and Denoising of Images** repository! This project demonstrates the application of deep learning techniques to add noise to images and then reconstruct the original images by removing the noise using a denoising autoencoder.
 
-![Results](https://github.com/manumishra12/Noising-Denoising/blob/main/Images/result2.png)
+![Results](https://github.com/manumishra12/Noising-Denoising/blob/main/Images/Convolutional%20Denoising%20Autoencoder%20Architecture.png)
 
 ---
 
